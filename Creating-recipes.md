@@ -1,5 +1,3 @@
-## Data packs
-
 As of Chipped 1.1.1 for all versions supported, the recipe system has been overhauled and it is now extremely simple to create a new recipe for Chipped.
 
 To add a new recipe, create a tag that contains the blocks you want to be interchangeable with one another.
