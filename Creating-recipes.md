@@ -26,7 +26,6 @@ Note* You can use any name for your json file, but for organization's sake, we r
 In your json, simply add the tag you created to the table you want from the list above, like so:
 
 ```
-
 {
   "type": "chipped:alchemy_bench",
   "tags": [
@@ -36,5 +35,4 @@ In your json, simply add the tag you created to the table you want from the list
     "chipped:sea_lantern"
   ]
 }
-
 ```
