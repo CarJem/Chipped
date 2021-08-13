@@ -12,4 +12,11 @@ Once you have created and registered your tags, you can use them in your recipe!
 
 Create a json file in `resources/data/modid/recipes/[benchname.json]`
 
-Chipped currently has 7 tables you can add recipes to, 
+Chipped currently has 7 tables you can add recipes to:
+Alchemy Bench: `chipped:alchemy_bench`
+Botanist Workbench: `chipped:botanist_workbench`
+Carpenters Workbench: `chipped:carpenters_workbench`
+Glassblower: `chipped:glassblower`
+Loom: `chipped:loom_table`
+Mason's table: `chipped:mason_table`
+Mechanist's Workbench: `chipped:mechanist_workbench`
