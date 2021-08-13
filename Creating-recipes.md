@@ -36,3 +36,7 @@ In your json, simply add the tag you created to the table you want from the list
   ]
 }
 ```
+
+You do not need to create a json for every recipe you wish to add to a table. At most, you should have 7 json files to add recipes to all tables in the mod, one for each table. Every tag added to the list will create a recipe independent of the other tags in the list, so adding `chipped:obsidian` and `chipped:glowstone` to the `alchemy_bench.json` recipe json will not make blocks in `chipped:obsidian` output blocks from the `chipped:glowstone` tag.
+
+This will make any blocks in each of the tags interchangeable with one another in the table that you specified. In the example above, for instance, all blocks in the `chipped:obsidian` tag will, when put into the Alchemy Bench, display all other blocks in the `chipped:obsidian` tag. 
