@@ -1,6 +1,6 @@
 As of Chipped 1.1.1 for all versions supported, the recipe system has been overhauled and it is now extremely simple to create a new recipe for Chipped.
 
-To add a new recipe, create an item tag that contains the blocks you want to be interchangeable with one another.
+To add a new recipe, create an **item** tag that contains the blocks you want to be interchangeable with one another.
 
 * Fabric Tutorial for Tags: https://fabricmc.net/wiki/tutorial:tags
 
