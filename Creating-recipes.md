@@ -15,7 +15,7 @@ Chipped currently has 7 tables you can add recipes to:
 * Glassblower: `chipped:glassblower`
 * Loom: `chipped:loom_table`
 * Mason's table: `chipped:mason_table`
-* Mechanist's Workbench: `chipped:mechanist_workbench`
+* Tinkering table (previously the Mechanist's Workbench): `chipped:mechanist_workbench`
 
 Create a json file in `resources/data/modid/recipes/[name.json]`
 
